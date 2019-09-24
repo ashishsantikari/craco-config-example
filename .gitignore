@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#reports
+/bundle-stats
+
 # production
 /build
 
